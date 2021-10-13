@@ -2,7 +2,7 @@
 This is microservice, built with Java and Springboot
 To run:
 
-   itani-tictactoe-server.jar (you nerd latest jdk installed) :
+   itani-tictactoe-server.jar (you need latest jdk installed) :
    type java -jar itani-tictactoe-server.jar in Command line 
    
    for itani-tictatoe-gui.jar:
