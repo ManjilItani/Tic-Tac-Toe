@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 This is microservice, built with Java and Springboot
+The game is multi-player and has no bot.
+The client and server side logics and functions are splited into two different microservices.
 To run:
 
    itani-tictactoe-server.jar (you need latest jdk installed) :
